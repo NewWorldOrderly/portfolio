@@ -1,0 +1,15 @@
+2013-08-26 12:40:28: -- bryanduckworth.com: ANALYSIS started by User on 'Bryan’s MacBook Pro' (GoodSync 4.1.9.0)
+2013-08-26 12:40:28: /Users/bryanduckworth/Desktop/bryanduckworth-old [time-translate] <-> ftp://bryanduckworth.com/bryanduckworth.com
+2013-08-26 12:40:28: L: Files: 83 (excluded 6). Folders: 9 (excluded 2). /dev/disk0s2 HFS, Free: 560816M, Total: 749296M
+2013-08-26 12:40:33: R: Files: 83 (excluded 5). Folders: 9 (excluded 2). FTP: DreamHost FTP Server
+2013-08-26 12:40:34: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2013-08-26 12:40:34: Left to Right: Copy File: 1 
+2013-08-26 12:40:34: -- Analysis Completed. Time 00:00:07, Speed: 14 files/s
+2013-08-26 12:40:34: 
+2013-08-26 12:40:36: == bryanduckworth.com: SYNC started by User on 'Bryan’s MacBook Pro'
+2013-08-26 12:40:36: /Users/bryanduckworth/Desktop/bryanduckworth-old [time-translate] <-> ftp://bryanduckworth.com/bryanduckworth.com
+2013-08-26 12:40:36: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/css/style.css' -> 'ftp://bryanduckworth.com/bryanduckworth.com/css/style.css'
+2013-08-26 12:40:37: Save State File ftp://bryanduckworth.com/bryanduckworth.com/_gsdata_/_file_state_v4._gs
+2013-08-26 12:40:37: Items Synced OK: 1, Errors: 0
+2013-08-26 12:40:37: == Sync Completed. Time: 00:00:02, Speed: 5895/s (6760/s)
+2013-08-26 12:40:38: 

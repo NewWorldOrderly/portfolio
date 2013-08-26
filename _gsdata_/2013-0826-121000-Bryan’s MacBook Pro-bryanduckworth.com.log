@@ -1,0 +1,174 @@
+2013-08-26 12:10:00: -- bryanduckworth.com: ANALYSIS started by User on 'Bryan’s MacBook Pro' (GoodSync 4.1.9.0)
+2013-08-26 12:10:00: /Users/bryanduckworth/Desktop/bryanduckworth-old [time-translate] <-> ftp://bryanduckworth.com/bryanduckworth.com
+2013-08-26 12:10:01: L: Files: 83 (excluded 6). Folders: 9 (excluded 2). /dev/disk0s2 HFS, Free: 560822M, Total: 749296M
+2013-08-26 12:10:03: R: Files: 82 (excluded 5). Folders: 9 (excluded 2). FTP: DreamHost FTP Server
+2013-08-26 12:10:03: /*_robots.txt: Conflict: New files that differ
+2013-08-26 12:10:03: /404.html: Conflict: New files that differ
+2013-08-26 12:10:03: /apple-touch-icon-114x114-precomposed.png: Conflict: New files that differ
+2013-08-26 12:10:03: /apple-touch-icon-144x144-precomposed.png: Conflict: New files that differ
+2013-08-26 12:10:03: /apple-touch-icon-57x57-precomposed.png: Conflict: New files that differ
+2013-08-26 12:10:03: /apple-touch-icon-72x72-precomposed.png: Conflict: New files that differ
+2013-08-26 12:10:03: /apple-touch-icon-precomposed.png: Conflict: New files that differ
+2013-08-26 12:10:03: /apple-touch-icon.png: Conflict: New files that differ
+2013-08-26 12:10:03: /CHANGELOG.md: Conflict: New files that differ
+2013-08-26 12:10:03: /CONTRIBUTING.md: Conflict: New files that differ
+2013-08-26 12:10:03: /crossdomain.xml: Conflict: New files that differ
+2013-08-26 12:10:03: /css/bootstrap-responsive.css: Conflict: New files that differ
+2013-08-26 12:10:03: /css/bootstrap-responsive.min.css: Conflict: New files that differ
+2013-08-26 12:10:03: /css/bootstrap.css: Conflict: New files that differ
+2013-08-26 12:10:03: /css/bootstrap.min.css: Conflict: New files that differ
+2013-08-26 12:10:03: /css/main.css: Conflict: New files that differ
+2013-08-26 12:10:03: /css/normalize.css: Conflict: New files that differ
+2013-08-26 12:10:03: /css/style.css: Conflict: New files that differ
+2013-08-26 12:10:03: /doc/crossdomain.md: Conflict: New files that differ
+2013-08-26 12:10:03: /doc/css.md: Conflict: New files that differ
+2013-08-26 12:10:03: /doc/extend.md: Conflict: New files that differ
+2013-08-26 12:10:03: /doc/faq.md: Conflict: New files that differ
+2013-08-26 12:10:03: /doc/html.md: Conflict: New files that differ
+2013-08-26 12:10:03: /doc/js.md: Conflict: New files that differ
+2013-08-26 12:10:03: /doc/misc.md: Conflict: New files that differ
+2013-08-26 12:10:03: /doc/TOC.md: Conflict: New files that differ
+2013-08-26 12:10:03: /doc/usage.md: Conflict: New files that differ
+2013-08-26 12:10:03: /favicon.gif: Conflict: File Modified on Both Sides
+2013-08-26 12:10:03: /favicon.ico: Conflict: File Modified on Both Sides
+2013-08-26 12:10:03: /fonts/Shadows_Into_Light/OFL.txt: Conflict: New files that differ
+2013-08-26 12:10:03: /fonts/Shadows_Into_Light/ShadowsIntoLight.ttf: Conflict: New files that differ
+2013-08-26 12:10:03: /google199d60d324a5bd6b.html: Conflict: File Modified on Both Sides
+2013-08-26 12:10:03: /humans.txt: Conflict: New files that differ
+2013-08-26 12:10:03: /img/.gitignore: Conflict: New files that differ
+2013-08-26 12:10:03: /img/1280-pastel-green-shapes-70.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/bryan_rollerskating.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/bryanduckworth-greenwall.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/do317.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/dola.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/donyc.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/elf.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/ellie.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/lollapalooza-chile.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/Malo.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/ncla.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/technique.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/the-echo.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/thirtysecondstomars.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/clients/WEI.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/dark-pattern.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/floral-pattern-1.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/glyphicons-halflings-white.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/glyphicons-halflings.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/green-pastel-texture.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/jquery_over.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/logo-css3.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/logo-html5.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/logo-jquery.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/pastel-greenshapes-trans.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/stars.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/stars2.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /img/thats-him.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/thats-me.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/title-header.png: Conflict: New files that differ
+2013-08-26 12:10:03: /img/yellow-dot-test.jpg: Conflict: New files that differ
+2013-08-26 12:10:03: /index.html: Conflict: New files that differ
+2013-08-26 12:10:03: /js/bootstrap.js: Conflict: New files that differ
+2013-08-26 12:10:03: /js/bootstrap.min.js: Conflict: New files that differ
+2013-08-26 12:10:03: /js/jquery.carouFredSel-6.0.4-packed.js: Conflict: New files that differ
+2013-08-26 12:10:03: /js/jquery.li-scroller.1.0.js: Conflict: New files that differ
+2013-08-26 12:10:03: /js/main.js: Conflict: New files that differ
+2013-08-26 12:10:03: /js/plugins.js: Conflict: New files that differ
+2013-08-26 12:10:03: /js/skrollr.js: Conflict: New files that differ
+2013-08-26 12:10:03: /js/vendor/jquery-1.9.1.min.js: Conflict: New files that differ
+2013-08-26 12:10:03: /js/vendor/modernizr-2.6.2.min.js: Conflict: New files that differ
+2013-08-26 12:10:03: /LICENSE.md: Conflict: New files that differ
+2013-08-26 12:10:03: /README-boilerplate.md: Conflict: New files that differ
+2013-08-26 12:10:03: /README.md: Conflict: New files that differ
+2013-08-26 12:10:03: /TEST.html: Conflict: File Modified on Both Sides
+2013-08-26 12:10:03: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2013-08-26 12:10:03: Changes: 80, Conflicts: 79, CopyTime: 0, CopyState: 0/9085, Errors: 0
+2013-08-26 12:10:03: Right to Left: Delete File: 1 
+2013-08-26 12:10:03: -- Analysis Completed. Time 00:00:03, Speed: 33 files/s
+2013-08-26 12:10:03: 
+2013-08-26 12:10:29: == bryanduckworth.com: SYNC started by User on 'Bryan’s MacBook Pro'
+2013-08-26 12:10:29: /Users/bryanduckworth/Desktop/bryanduckworth-old [time-translate] <-> ftp://bryanduckworth.com/bryanduckworth.com
+2013-08-26 12:10:30: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/*_robots.txt' -> 'ftp://bryanduckworth.com/bryanduckworth.com/*_robots.txt' (User Action)
+2013-08-26 12:10:30: Copy New '/Users/bryanduckworth/Desktop/bryanduckworth-old/.htaccess' -> 'ftp://bryanduckworth.com/bryanduckworth.com/.htaccess' (User Action)
+2013-08-26 12:10:31: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/404.html' -> 'ftp://bryanduckworth.com/bryanduckworth.com/404.html' (User Action)
+2013-08-26 12:10:31: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/apple-touch-icon-114x114-precomposed.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/apple-touch-icon-114x114-precomposed.png' (User Action)
+2013-08-26 12:10:31: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/apple-touch-icon-144x144-precomposed.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/apple-touch-icon-144x144-precomposed.png' (User Action)
+2013-08-26 12:10:32: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/apple-touch-icon-57x57-precomposed.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/apple-touch-icon-57x57-precomposed.png' (User Action)
+2013-08-26 12:10:32: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/apple-touch-icon-72x72-precomposed.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/apple-touch-icon-72x72-precomposed.png' (User Action)
+2013-08-26 12:10:32: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/apple-touch-icon-precomposed.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/apple-touch-icon-precomposed.png' (User Action)
+2013-08-26 12:10:32: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/apple-touch-icon.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/apple-touch-icon.png' (User Action)
+2013-08-26 12:10:33: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/CHANGELOG.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/CHANGELOG.md' (User Action)
+2013-08-26 12:10:33: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/CONTRIBUTING.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/CONTRIBUTING.md' (User Action)
+2013-08-26 12:10:33: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/crossdomain.xml' -> 'ftp://bryanduckworth.com/bryanduckworth.com/crossdomain.xml' (User Action)
+2013-08-26 12:10:33: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/css/bootstrap-responsive.css' -> 'ftp://bryanduckworth.com/bryanduckworth.com/css/bootstrap-responsive.css' (User Action)
+2013-08-26 12:10:34: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/css/bootstrap-responsive.min.css' -> 'ftp://bryanduckworth.com/bryanduckworth.com/css/bootstrap-responsive.min.css' (User Action)
+2013-08-26 12:10:34: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/css/bootstrap.css' -> 'ftp://bryanduckworth.com/bryanduckworth.com/css/bootstrap.css' (User Action)
+2013-08-26 12:10:35: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/css/bootstrap.min.css' -> 'ftp://bryanduckworth.com/bryanduckworth.com/css/bootstrap.min.css' (User Action)
+2013-08-26 12:10:35: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/css/main.css' -> 'ftp://bryanduckworth.com/bryanduckworth.com/css/main.css' (User Action)
+2013-08-26 12:10:35: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/css/normalize.css' -> 'ftp://bryanduckworth.com/bryanduckworth.com/css/normalize.css' (User Action)
+2013-08-26 12:10:36: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/css/style.css' -> 'ftp://bryanduckworth.com/bryanduckworth.com/css/style.css' (User Action)
+2013-08-26 12:10:36: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/doc/crossdomain.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/doc/crossdomain.md' (User Action)
+2013-08-26 12:10:36: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/doc/css.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/doc/css.md' (User Action)
+2013-08-26 12:10:37: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/doc/extend.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/doc/extend.md' (User Action)
+2013-08-26 12:10:37: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/doc/faq.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/doc/faq.md' (User Action)
+2013-08-26 12:10:37: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/doc/html.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/doc/html.md' (User Action)
+2013-08-26 12:10:38: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/doc/js.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/doc/js.md' (User Action)
+2013-08-26 12:10:38: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/doc/misc.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/doc/misc.md' (User Action)
+2013-08-26 12:10:38: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/doc/TOC.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/doc/TOC.md' (User Action)
+2013-08-26 12:10:39: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/doc/usage.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/doc/usage.md' (User Action)
+2013-08-26 12:10:39: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/favicon.gif' -> 'ftp://bryanduckworth.com/bryanduckworth.com/favicon.gif' (User Action)
+2013-08-26 12:10:39: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/favicon.ico' -> 'ftp://bryanduckworth.com/bryanduckworth.com/favicon.ico' (User Action)
+2013-08-26 12:10:41: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/fonts/Shadows_Into_Light/OFL.txt' -> 'ftp://bryanduckworth.com/bryanduckworth.com/fonts/Shadows_Into_Light/OFL.txt' (User Action)
+2013-08-26 12:10:42: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/fonts/Shadows_Into_Light/ShadowsIntoLight.ttf' -> 'ftp://bryanduckworth.com/bryanduckworth.com/fonts/Shadows_Into_Light/ShadowsIntoLight.ttf' (User Action)
+2013-08-26 12:10:42: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/google199d60d324a5bd6b.html' -> 'ftp://bryanduckworth.com/bryanduckworth.com/google199d60d324a5bd6b.html' (User Action)
+2013-08-26 12:10:42: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/humans.txt' -> 'ftp://bryanduckworth.com/bryanduckworth.com/humans.txt' (User Action)
+2013-08-26 12:10:43: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/.gitignore' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/.gitignore' (User Action)
+2013-08-26 12:10:43: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/1280-pastel-green-shapes-70.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/1280-pastel-green-shapes-70.jpg' (User Action)
+2013-08-26 12:10:45: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/bryan_rollerskating.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/bryan_rollerskating.jpg' (User Action)
+2013-08-26 12:10:46: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/bryanduckworth-greenwall.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/bryanduckworth-greenwall.jpg' (User Action)
+2013-08-26 12:10:46: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/do317.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/do317.jpg' (User Action)
+2013-08-26 12:10:47: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/dola.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/dola.jpg' (User Action)
+2013-08-26 12:10:47: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/donyc.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/donyc.jpg' (User Action)
+2013-08-26 12:10:47: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/elf.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/elf.jpg' (User Action)
+2013-08-26 12:10:48: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/ellie.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/ellie.jpg' (User Action)
+2013-08-26 12:10:48: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/lollapalooza-chile.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/lollapalooza-chile.jpg' (User Action)
+2013-08-26 12:10:48: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/Malo.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/Malo.jpg' (User Action)
+2013-08-26 12:10:49: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/ncla.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/ncla.jpg' (User Action)
+2013-08-26 12:10:49: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/technique.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/technique.jpg' (User Action)
+2013-08-26 12:10:49: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/the-echo.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/the-echo.jpg' (User Action)
+2013-08-26 12:10:50: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/thirtysecondstomars.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/thirtysecondstomars.jpg' (User Action)
+2013-08-26 12:10:50: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/clients/WEI.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/clients/WEI.jpg' (User Action)
+2013-08-26 12:10:50: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/dark-pattern.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/dark-pattern.png' (User Action)
+2013-08-26 12:10:51: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/floral-pattern-1.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/floral-pattern-1.png' (User Action)
+2013-08-26 12:10:52: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/glyphicons-halflings-white.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/glyphicons-halflings-white.png' (User Action)
+2013-08-26 12:10:52: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/glyphicons-halflings.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/glyphicons-halflings.png' (User Action)
+2013-08-26 12:10:52: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/green-pastel-texture.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/green-pastel-texture.jpg' (User Action)
+2013-08-26 12:10:52: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/jquery_over.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/jquery_over.png' (User Action)
+2013-08-26 12:10:53: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/logo-css3.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/logo-css3.png' (User Action)
+2013-08-26 12:10:53: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/logo-html5.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/logo-html5.png' (User Action)
+2013-08-26 12:10:53: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/logo-jquery.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/logo-jquery.png' (User Action)
+2013-08-26 12:10:54: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/pastel-greenshapes-trans.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/pastel-greenshapes-trans.png' (User Action)
+2013-08-26 12:10:55: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/stars.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/stars.jpg' (User Action)
+2013-08-26 12:10:56: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/stars2.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/stars2.jpg' (User Action)
+2013-08-26 12:10:56: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/thats-him.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/thats-him.png' (User Action)
+2013-08-26 12:10:57: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/thats-me.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/thats-me.png' (User Action)
+2013-08-26 12:10:58: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/title-header.png' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/title-header.png' (User Action)
+2013-08-26 12:10:58: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/img/yellow-dot-test.jpg' -> 'ftp://bryanduckworth.com/bryanduckworth.com/img/yellow-dot-test.jpg' (User Action)
+2013-08-26 12:10:59: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/index.html' -> 'ftp://bryanduckworth.com/bryanduckworth.com/index.html' (User Action)
+2013-08-26 12:10:59: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/js/bootstrap.js' -> 'ftp://bryanduckworth.com/bryanduckworth.com/js/bootstrap.js' (User Action)
+2013-08-26 12:11:00: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/js/bootstrap.min.js' -> 'ftp://bryanduckworth.com/bryanduckworth.com/js/bootstrap.min.js' (User Action)
+2013-08-26 12:11:00: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/js/jquery.carouFredSel-6.0.4-packed.js' -> 'ftp://bryanduckworth.com/bryanduckworth.com/js/jquery.carouFredSel-6.0.4-packed.js' (User Action)
+2013-08-26 12:11:00: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/js/jquery.li-scroller.1.0.js' -> 'ftp://bryanduckworth.com/bryanduckworth.com/js/jquery.li-scroller.1.0.js' (User Action)
+2013-08-26 12:11:00: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/js/main.js' -> 'ftp://bryanduckworth.com/bryanduckworth.com/js/main.js' (User Action)
+2013-08-26 12:11:01: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/js/plugins.js' -> 'ftp://bryanduckworth.com/bryanduckworth.com/js/plugins.js' (User Action)
+2013-08-26 12:11:01: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/js/skrollr.js' -> 'ftp://bryanduckworth.com/bryanduckworth.com/js/skrollr.js' (User Action)
+2013-08-26 12:11:02: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/js/vendor/jquery-1.9.1.min.js' -> 'ftp://bryanduckworth.com/bryanduckworth.com/js/vendor/jquery-1.9.1.min.js' (User Action)
+2013-08-26 12:11:02: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/js/vendor/modernizr-2.6.2.min.js' -> 'ftp://bryanduckworth.com/bryanduckworth.com/js/vendor/modernizr-2.6.2.min.js' (User Action)
+2013-08-26 12:11:02: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/LICENSE.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/LICENSE.md' (User Action)
+2013-08-26 12:11:02: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/README-boilerplate.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/README-boilerplate.md' (User Action)
+2013-08-26 12:11:03: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/README.md' -> 'ftp://bryanduckworth.com/bryanduckworth.com/README.md' (User Action)
+2013-08-26 12:11:03: Copy Over '/Users/bryanduckworth/Desktop/bryanduckworth-old/TEST.html' -> 'ftp://bryanduckworth.com/bryanduckworth.com/TEST.html' (User Action)
+2013-08-26 12:11:04: Save State File ftp://bryanduckworth.com/bryanduckworth.com/_gsdata_/_file_state_v4._gs
+2013-08-26 12:11:04: Items Synced OK: 9165, Errors: 0
+2013-08-26 12:11:04: == Sync Completed. Time: 00:00:35, Speed: 258K/s (30K/s)
+2013-08-26 12:11:04: 

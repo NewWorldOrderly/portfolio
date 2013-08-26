@@ -1,0 +1,25 @@
+== Yin & Yang Changelog ==
+
+
+
+= 06 Jan 2012 - version 1.1.1 =
+
+* MODIFIED:
+
+- /function-includes/theme-functions.php - removed the text, which appears when both video and the portfolio images are not included in the portfolio post.
+- single-portfolio.php - same as above.
+- /admin/css/admin-style.css - fixed the alignment of the radio buttons.    
+
+
+
+= 15 Feb 2012 - version 1.1.2 =
+
+* MODIFIED:
+
+- /function-includes/theme-shortcodes/contact-form-shortcode/ajax.php - fixed the text formatting in emails.
+- /js/jquery.footer.custom.js - replaced all the occurrences of "$" with "jQuery," in the "topLink" plugin, to avoid conflicts when jQuery.noConflict() is called.
+- template-full-width.php - added the "page-content" class, to make things like tables and lists properly formatted in the full width page template.
+- style.css - added the code for the full width template, under the "Pages" section.
+- footer.php - fixed the positioning of the copyright area, if the social icons/links are not included. 
+- /function-includes/theme-functions.php - modified the name of the "eq_the_social_networks" function, and made it return the output, instead of echoing it. 
+                                             

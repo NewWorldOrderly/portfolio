@@ -1,0 +1,411 @@
+/* ==========================================================================
+   BryanDuckworth.com Styles: CUSTOM
+   ========================================================================== */
+
+/* FONTS */
+
+.cursive {
+	font-family: 'Shadows Into Light', cursive;
+
+}
+
+/* GLOBAL */
+
+body {
+	min-height: 1000px;
+}
+
+#home { 
+	background: url('../img/stars.jpg') 50% 0 repeat fixed; min-height: 1000px;
+}
+
+html a { color:#973879; }
+html a:hover { color:#462947; text-decoration: none; }
+
+/* TOP INTRO */
+
+#top {
+	background: url('../img/green-pastel-texture.jpg') repeat;
+	width:100%;
+	display: block;
+	overflow: hidden;
+	height: 400px;
+	box-shadow: 0 0 12px 0 gray;
+	position: relative;
+	z-index: 9999;
+
+}
+
+#top.fixed {
+    position:fixed;
+    top:-305px;
+}
+
+#header-image {
+	background: url('../img/bryanduckworth-greenwall.jpg') no-repeat;
+	background-size: 100% auto;
+	float: left;
+	box-shadow: inset 0px 0px 50px rgba(0,0,0,1.5);
+	width: 40%;
+	height: 270px;
+	margin: 30px;
+	position: relative;
+	background-position: 0 -40px;
+	display: block;
+}
+
+#title-header {
+	float: right;
+	width: 53%;
+	max-width: 850px;
+	margin: 30px 30px 30px 0;
+	position: relative;
+	display: block;
+}
+
+#title-header img {
+	width:100%;
+	}
+
+
+/* NAVIGATION */
+
+#top-nav {
+	background: url('../img/dark-pattern.png') repeat;
+	border: 3px solid black;
+	border-left: 0;
+	border-right: 0;
+	position: absolute;
+	bottom: 20px;
+	width: 100%;
+	z-index: 100;
+	font-size: 30px;
+	color: #c8ebab;
+	margin-top: 20px;
+	display: block;
+}
+
+
+#top-nav-links {
+	width: 571px;
+	margin: auto;
+}
+
+#top-nav-links ul {
+	padding:0;
+	margin:0;
+	}
+
+#top-nav-links li {
+	float: left;
+	list-style-type: none;
+	margin-right: 20px;
+	padding: 10px 30px;
+}
+
+#top-nav-links li a { color:#c8ebab; }
+#top-nav-links li a:hover { color:#973879; }
+
+/* MIDDLE CONTENT */
+
+#top.fixed + #middle {
+	margin-top:400px;
+	padding-bottom:110px;
+	}
+
+#middle {
+	display: block;
+	overflow: hidden; 
+	padding-top: 95px;
+	margin-top:-95px;
+}
+
+.middle-block {
+	display: block;
+	background: white;
+	width: 96%;
+	border: 5px solid;
+	margin: 40px auto;
+	overflow: hidden;
+}
+
+.middle-block-dark {
+	display:block; 
+	background: url('../img/dark-pattern.png') repeat; 
+	margin: 0 auto; 
+	padding:30px; 
+	box-shadow: 0 0 12px 0 gray; 
+	color:white; 
+	font-size:22px; 
+	line-height:24px; 
+	background-attachment:fixed;
+}
+
+.middle-title {
+	text-align: center;
+	font-size: 56px;
+	margin-bottom: 20px;
+	line-height: 56px;
+}
+
+#clients { }
+
+#clients-blurb { 
+	margin: 20px;
+	font-size: 30px;
+	line-height: 40px;
+}
+
+.skill {
+	font-size:34px; 
+	font-weight: bold;
+}
+
+#about-container {
+	padding-top: 95px;
+}
+
+#about { display: none; }
+
+#about-arrow {
+	margin: auto;
+	position: relative;
+	width: 41px;
+	display: block;	
+	color:#c8ebab;
+}
+
+#about-arrow:hover {
+	color:#973879;
+}
+
+#contact-container {
+	padding-top: 95px;
+}
+
+#contact-container .middle-block {
+	margin-bottom:40px;
+	}
+
+.contact-box-left {
+	display: block;
+	width: 48%;
+	float: left;
+	padding:20px 10px 20px 20px;
+}
+
+.contact-box-right {
+	display: block;
+	width: 47%;
+	float: right;
+	font-size:20px;
+	line-height: 26px;
+	padding:20px 20px 20px 10px;
+}
+
+.contact-box-right .title {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.contact-box-right .content {
+	margin-bottom:40px;
+}
+
+
+
+
+/* BOTTOM CONTENT */
+
+#bottom {
+	width:100%;
+	text-align: center;
+	background: url('../img/green-pastel-texture.jpg') repeat;
+  	box-shadow: 0 0 12px 0 gray;
+}
+
+ #bottom.fixed {
+    position:fixed;
+    bottom:0;
+}
+
+#constructed {
+	background: transparent;
+	margin-top: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.logos {
+	width:50px;
+	margin:10px;
+}
+
+/* RESPONSIVE + MOBILE */
+
+@media all and (min-width: 1800px) {
+
+	html body {
+		max-width: 2000px;
+		margin: auto !important;
+	}
+
+	#thats-me {width:350px;}
+
+	#title-header {
+		float: right;
+		width: 52%;
+		max-width: 950px;
+		margin: 5px 80px 30px 0;
+		position: relative;
+		display: block;
+	}
+
+}
+
+@media all and (max-width: 1799px) and (min-width: 1440px) {
+
+	#thats-me {width:280px;}
+
+}
+
+@media all and (max-width: 1439px) and (min-width: 1200px) {
+
+	#thats-me {width:250px;}
+
+	#title-header {width: 52%;}
+
+	.contact-box-right { width: 46%; }
+
+}
+
+@media all and (max-width: 1199px) and (min-width: 800px) {
+
+	#header-image { 
+		background: url("../img/bryanduckworth-greenwall.jpg") no-repeat scroll 0 -110px / 100% auto transparent;
+		width: 100%; 
+		height: 300px;
+		margin:0; 
+	}
+
+	#thats-me { width: 450px; }
+
+
+	#title-header {
+	    display: none;
+	}
+
+
+	.contact-box-right {
+    	width: 44%;
+    }
+
+}
+
+@media all and (max-width: 799px) and (min-width: 600px) {
+
+	html body { padding:0; }
+
+	#header-image {
+	    background-position: 0 -40px;
+	    background-size: 100% auto;
+		width: 100%; 
+		height: 300px;
+		margin:0; 
+	}
+
+	#thats-me { width: 350px; }
+
+	#title-header {
+	    display: none;
+	}
+
+	.middle-title {
+	    font-size: 36px;
+	    line-height: 36px;
+	}
+
+	.contact-box-right {
+	    width: 43%;
+	}
+
+	.contact-box-left {
+	    width: 46%;
+	}
+
+
+}
+
+@media all and (max-width: 599px) and (min-width: 450px)  {
+	
+	html body { padding:0; }
+
+	#header-image {
+		background-size: 700px auto;
+		background-position: 0 -40px;
+		width: 100%; 
+		height: 300px;
+		margin:0; 
+	}
+
+	#thats-me {
+    	width: 350px;
+	}
+
+	#title-header {
+	    display: none;
+	}
+
+	#top-nav-links {
+	    display: block;
+	    margin: auto;
+	    overflow: hidden;
+	    width: 310px;
+	}
+
+	#top-nav-links li {
+		padding: 10px 10px;
+		font-size: 20px;
+		margin-right:10px;
+	}
+
+
+
+
+}
+
+@media all and (max-width: 449px) {
+	
+	html body { padding:0; }
+
+	#header-image {
+		background-size: 700px auto;
+		background-position: -250px -40px;
+		width: 100%; 
+		height: 300px;
+		margin:0; 
+	}
+
+	#title-header, #thats-me {
+	    display: none;
+	}
+
+	#top-nav-links {
+	    display: block;
+	    margin: auto;
+	    overflow: hidden;
+	    width: 315px;
+	}
+
+	#top-nav-links li {
+		padding: 10px 10px;
+		font-size: 20px;
+		margin-right:10px;
+	}
+
+	.middle-title {
+		text-align: center;
+		font-size: 26px;
+		line-height: 26px;
+	}
+}
