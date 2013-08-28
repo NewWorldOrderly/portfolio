@@ -21,6 +21,7 @@ body {
 
 html a { color:#973879; }
 html a:hover { color:#462947; text-decoration: none; }
+html a:focus { text-decoration:none; outline:none; }
 
 .outer-center {
     float: right;
